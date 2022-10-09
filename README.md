@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @schlangens - Scott Schlangen
+- 👋 Hi, I’m Scott Schlangen
 - 👀 I’m interested in learning more about automation and working on current problems where volunteers are needed
 - 🌱 I’m currently learning everyday! 
 - 📫 Visit my portfoloio to learn more:  www.scottschlangen.com
